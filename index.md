@@ -3,11 +3,11 @@ layout: default
 title: Methodology Assignment 5
 ---
 
-**Name:** Yuhe Tian  
-**Email:** yut009@ucsd.edu  
+### **Name:** Yuhe Tian  
+### **Email:** yut009@ucsd.edu  
 
-**Section:** B09 
-**Mentor:** Hungjen Wang, Rinnie Han
+### **Section:** B09  
+### **Mentor:** Hungjen Wang, Rinnie Han  
 
 **What is the most interesting topic covered in your domain this quarter?**  
 *I found sentiment analysis to be the most interesting topic. It offers a unique way to extract actionable insights from textual data, such as news articles or social media posts, and its applications in financial markets, especially for predicting stock movements, are particularly compelling.*
